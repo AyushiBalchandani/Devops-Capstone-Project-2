@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: ayushibalchandani@gmail.com/project2:latest
+        image: ayushibalchandani/project2:latest
         ports:
         - containerPort: 80
